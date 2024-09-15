@@ -1,5 +1,5 @@
 # SOC + Honeynet in Azure Cloud
-![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
+![Screenshot 2024-09-14 205840](https://github.com/user-attachments/assets/297486f1-c1ff-4e70-a26a-d8396e9aeff8)
 
 ## Introduction
 
