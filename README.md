@@ -12,10 +12,10 @@ In this project, I created a honeynet in Microsft Azure that shows live attack t
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+![Architecture Diagram](https://github.com/user-attachments/assets/e54645bd-12d0-43e5-a82e-f845674c4083)
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
+![Architecture Diagram](https://github.com/user-attachments/assets/5f59edcf-ee17-4a81-b0b1-2f6891f8d447)
 
 The architecture of the mini honeynet in Azure consists of the following components:
 
